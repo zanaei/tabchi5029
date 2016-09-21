@@ -11,7 +11,7 @@
 ```sh
 # Tested and will run without problem
 
-Import the https://github.com/alireza1998/DontEditBOT to your Github and edit(line 3 token|line 4 userid)
+Import the https://github.com/alireza1998/pmresan to your Github and edit(line 2 token|line 118 userid-admin)
 Creating an account on the site www.openshift.com
 And build an application
 Choose PHP 5.4
