@@ -29,4 +29,4 @@ Example: https://api.telegram.org/bot2410172AGLGw1-P8Djir3ngaWDF-_Cf5Nzx-47Q/set
 [alireza_PT](https://telegram.me/cliapi)
 
 # رفع مشکل /سوال 
-[pmresan](https://telegram.me/alireza_pt_bot)
+[pmresan](https://telegram.me/alireza_pt_bot) 
