@@ -15,7 +15,7 @@ Import the https://github.com/alireza1998/pvresan to your Github and edit(line 2
 Creating an account on the site www.openshift.com
 And build an application
 Choose PHP 5.4
-Import ex: https://github.com/alireza1998/pmresan.git
+Import ex: https://github.com/alireza1998/pvresan.git
  And click on Create Application
  
 The last step is to set the webhook
